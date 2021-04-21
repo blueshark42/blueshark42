@@ -25,7 +25,7 @@ My name is Roland, I'm a 17 year old student living in Slovakia!
 - ⚛️ QxQ Quantum Course, taught by MIT graduates and sponsored by IBM
 - 👨‍💻 Contestant at [MIT Blueprint 2021](https://blueprint.hackmit.org/)
 - 👼 Winner at [AngelHacks](https://www.angelhacks.org/) 2.0
-- 🛡️ CTFs, malware, and cryptography
+- ⚔️ CTFs, malware, and cryptography
 
 **Here's some cool things I'd like to do or get better at:**
 - ☠️ [Guardians 2021](https://www.guardians.sk/) 
