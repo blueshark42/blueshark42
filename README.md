@@ -33,4 +33,4 @@ I work a lot, I also like to play a few games. Whether it's work or games, I pla
 **Here's some cool things I'd like to do or get better at:**
 - ☠️ [Guardians 2021](https://www.guardians.sk/) 
 - 🤓 Get better at techy stuff (Programming, engineering, networking, etc. 😁)
-- 💌 Help a government agency or company with [computer network operations](https://en.wikipedia.org/wiki/Computer_network_operations)
+- 💌 Just this --> [computer network operations](https://en.wikipedia.org/wiki/Computer_network_operations)
