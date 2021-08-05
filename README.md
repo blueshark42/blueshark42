@@ -20,7 +20,6 @@ My name is Roland, I'm a 17 year old student living in Slovakia!
 I work a lot, I also like to play a few games. Whether it's work or games, I play to win. Competition makes everything more fun. 😄
 
 **I'm currently studying:**
-- ⚛️ Quantum Computing
 - 🛡️ Cyber Security
 
 **Here's some cool things I do or have done:**
@@ -29,6 +28,7 @@ I work a lot, I also like to play a few games. Whether it's work or games, I pla
 - 👼 Winner at [AngelHacks](https://www.angelhacks.org/) 2.0
 - ⚔️ CTFs, malware, and cryptography
 - ⚙️ Games in Unity and Unreal Engine 4
+- 🌌 NASA Minor Planet Center - Asteroid Search Team
 
 **Here's some cool things I'd like to do or get better at:**
 - ☠️ [Guardians 2021](https://www.guardians.sk/) 
