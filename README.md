@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Roland, I'm a 17 year old student living in Slovakia!
 
-I work a lot, I also like to play a few games. Whether it's work or games, I play to win. Competition makes everything more fun. 😄
+I'm good at making things, using clever techniques... for the most part. I made things that help others, things that millions of computers run daily, and even random things. You can find a tiny bit of what I've made here. :)
 
 **I'm currently studying:**
 - 🛡️ Cyber Security
