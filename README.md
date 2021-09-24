@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Roland, I'm a 18 year old student living in Slovakia!
+My name is Roland, I'm a 18 year old student from Slovakia!
 
 I'm good at making things, using clever techniques... for the most part. I made things that help others, things that millions of computers run daily, and even random things. You can find a tiny bit of what I've made here. :)
+
+I might like cyber-security and programming a little bit too much. ;D
 
 **I'm currently studying:**
 - 🛡️ Cyber Security
