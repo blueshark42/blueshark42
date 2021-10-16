@@ -31,7 +31,7 @@ I might like cyber-security and programming a little bit too much. ;D
 - ⚔️ CTFs, malware, and cryptography
 - ⚙️ Games in Unity and Unreal Engine 4
 - 🌌 NASA Minor Planet Center - Asteroid Search Team
-- ☠️ [Guardians 2021](https://www.guardians.sk/) 
+- ☠️ [Guardians 2021](https://www.guardians.sk/) (finished 18th, 9th at our greatest push)
 
 **Here's some cool things I'd like to do or get better at:**
 - 🤓 Get better at techy stuff (Programming, engineering, networking, etc. 😁)
