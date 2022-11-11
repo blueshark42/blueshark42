@@ -2,7 +2,7 @@
 
 <!--
 **blueshark42/blueshark42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-31:69:59:6c:6f:31:69:59:6c:5e:31:69:59:6c:5c:31:69:59:6c:4b:31:69:59:6c:54:31:69:59:6c:52:31:69:59:6c:4c:31:69:59:6c:59:31:69:59:6c:59:31:69:59:6c:55:31:69:59:6c:54:31:69:59:6c:4b:31:69:59:6c:54:31:69:59:6c:55:31:69:59:6c:5a:31:69:59:6c:5e:31:69:59:6c:5c:31:69:59:6c:62:31:69:59:6c:4b:31:69:59:6c:40:31:69:59:6c:5c:31:69:59:6c:4b:31:69:59:6c:4c:31:69:59:6c:52:31:69:59:6c:52:31:69:59:6c:4b:31:69:59:6c:50:31:69:59:6c:6e:31:69:59:6c:60:31:69:59:6c:40:31:69:59:6c:4b:31:69:59:6c:4c:31:69:59:6c:6e:31:69:59:6c:64:31:69:59:6c:4b:31:69:59:6c:52:31:69:59:6c:60:31:69:59:6d:23:31:69:59:6c:5c:36:59:43:40:3e:38:4f:75:30:6a:3d:5d:5c:28:2c:3e:27:57:46:68:40:72:3f:2a:74:38:4f:6e:23:3e:40:37:2a:40:39:40:72:35:37:6c:38:4f:52:4b:38:36:59:43:3d:58:3a:2f:6c:46:5e:3a:2e:52:66:35:3d:44:3c:22:4b:3c:60:44:4f:49:3c:2c:46:4c:34:3a:47:59:3d:37:40:73:3a:28:21
+
 Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I pwn stuff. I stop people from pwning stuff. Find out about the rest.
+I pwn stuff. I stop people from pwning stuff. Find out about the rest. :)
