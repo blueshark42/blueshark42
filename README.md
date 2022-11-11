@@ -3,7 +3,7 @@
 <!--
 **blueshark42/blueshark42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: x
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I pwn stuff. I stop people from pwning stuff. Find out about the rest.
+I pwn stuff. I stop people from pwning stuff. Find out about the rest. :)
